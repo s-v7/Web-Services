@@ -28,7 +28,7 @@
 >> - Processo: síncrono.  
 >> - Método: nfeConsulta
 >>
->> - Tecnologias **(u,v,w) => "Java OOP 8+ and Spring Boot(MVC + ... +)";***
+>> - Tecnologias **(u,v,w) => "Java OOP 8+ and Spring Boot(MVC + ... +)";**
 >
 >  - Material disponível em => https://www.nfe.fazenda.gov.br/portal/principal.aspx
 > #### Author: Silas Vasconcelos Cruz
